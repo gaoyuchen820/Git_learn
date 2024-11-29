@@ -1,1 +1,2 @@
 print("yn")
+print("ynn")
